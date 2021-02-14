@@ -1,0 +1,33 @@
+h1,h2 {
+    color: red;
+
+ } 
+
+ .grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+ }
+ .footer{
+    display: flex;
+    justify-content: flex-end;  
+ }
+
+ .header{
+     background-color: yellow ;
+     display: flex;
+     justify-content: space-between;
+ }
+ 
+ 
+
+ p{
+     color:royalblue;
+     font-family: comic sans ms;
+     font-weight: bold;
+    
+ }
+ 
+ * {
+    border: solid;
+}
